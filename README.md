@@ -154,6 +154,8 @@ Focused on resources that make agent behavior easier to test, compare, debug, or
   `benchmark` `browser-agent` `web-navigation`
 - [MiniWoB++](https://github.com/Farama-Foundation/miniwob-plusplus) — Small synthetic browser tasks for fast, controlled experiments.
   `benchmark` `browser-agent` `synthetic`
+- [Clankdar](https://github.com/hraness/clankdar) — Fresh small-program puzzles an agent must answer exactly under a deadline; the signed receipt can be rechecked by anyone.
+  `benchmark` `coding-agent` `open-source`
 
 ## Evaluation Frameworks
 
